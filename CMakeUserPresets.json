@@ -1,0 +1,18 @@
+﻿{
+    "version": 3,
+    "configurePresets": [
+
+        {
+            "name": "x64-debug-user",
+            "displayName": "x64 Debug (User)",
+            "inherits": "x64-debug",
+            "cacheVariables": {
+                //"CMAKE_PREFIX_PATH": "D:\\DEVELOPMENT\\SDKs\\SDL3-3.4.2;D:\\DEVELOPMENT\\SDKs\\SDL3_image-3.4.0;D:\\DEVELOPMENT\\SDKs\\SDL3_mixer-3.2.0"
+            }
+            //"environment": {
+            //    "CFLAGS": "/fsanitize=address",
+            //    "CXXFLAGS": "/fsanitize=address"
+            //}
+        }
+    ]
+}
